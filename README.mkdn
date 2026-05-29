@@ -8,13 +8,13 @@ To get started with Android/LineageOS, you'll need to get familiar with [Source 
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-repo init -u https://github.com/OnePlus-SM8850-Development/android.git -b lineage-23.2 --git-lfs
+repo init -u https://github.com/sm8850-devs/android.git -b lineage-23.2 --git-lfs
 ```
 Then to sync up:
 ```
 repo sync
 ```
-# Build LineageOS on OnePlus 15 / 15R / Ace 6T
+# Build LineageOS on Xiaomi-SM8850
 
 # Set up environment
 ```bash
